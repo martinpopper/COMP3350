@@ -1,0 +1,9 @@
+Changes for project 3350
+
+1. Change the picture of the welcome page & background & icons for features.
+2. Adding courses now works (not like previous: when you add a course, it will show course of random name). 
+3. When dropping course, the title is still ”add courses”, we need to change it to ”drop courses”.
+4. Change the Chinese characters in the code into English.
+5. Add some more detail when clicking submit e-form, financial aids like order number, time, next to arrow: add “click here to go back”.
+6. Add buttons for acacdemic transcript.
+7. There are 2 features left still in progress.

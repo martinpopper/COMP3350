@@ -209,9 +209,6 @@ button {
     padding: 0px;
 }
 
-
-/* header section start */
-
 .header_section {
     width: 100%;
     float: left;
@@ -256,12 +253,6 @@ button {
 .navbar {
     padding: 15px 0px;
 }
-
-
-/* header section end */
-
-
-/* banner section start */
 
 .banner_section {
     width: 100%;
@@ -309,12 +300,6 @@ button {
     color: #252525;
     background-color: #ffffff;
 }
-
-
-/* banner section end */
-
-
-/* about_section section start */
 
 .about_section {
     width: 100%;
@@ -370,11 +355,6 @@ button {
     float: left;
 }
 
-
-/* about section end */
-
-
-/* courses section start */
 
 .courses_section {
     width: 100%;
@@ -498,11 +478,6 @@ figure:hover+span {
     color: #ffffff;
     background-color: #fb6818
 }
-
-/* courses section end */
-
-
-/* blog section start */
 
 .blog_section {
     width: 100%;
